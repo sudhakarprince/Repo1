@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C43C-99C3
+
+ Directory of C:\Users\sudhakar\Desktop\MyProject
+
+06/27/2017  05:33 PM    <DIR>          .
+06/27/2017  05:33 PM    <DIR>          ..
+06/27/2017  05:33 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  46,566,797,312 bytes free
